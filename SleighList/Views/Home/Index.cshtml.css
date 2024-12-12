@@ -1,0 +1,5 @@
+.BannerGato{
+    width: max-content;
+    height: 100px;
+    display: flex;
+}
